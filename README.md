@@ -16,6 +16,6 @@
     <dd>This section contains a 'fill in the blanks' activity where the user has to complete the given sentences by typing in the correct form of the verb conjugated in the past tense. Correct answers will be displayed after the user has attempted all questions.</dd>
   </dl>
 </p>
-<h2 align="center">Installation Requirements</h2>
+<h2 align="center">Installation Requirements (Windows 10)</h2>
 <h4 align="center">Contributors</h4>
 <p align="center">The entirety of this program was designed and coded by Hiba Bhutta and Harman Khehara.</p>
