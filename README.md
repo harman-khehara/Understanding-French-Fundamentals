@@ -6,5 +6,8 @@
 <h2 align="center">Features & Functionality</h2>
 <p align="center">
   <dl>
+    <dt>Experience Level</dt>
+    <dd>This program includes the ability to set the user's experience level with past tense conjugation in French based on which the program will recommend which sections of the program the user should start off with. </dd>
     <dt>Conjugation Rules</dt>
     <dd>In this section you will find the basic rules needed to conjugate french verbs in the past tense using the verbs avoir and être.</dd>
+    <dt>Mini Game</dt>
