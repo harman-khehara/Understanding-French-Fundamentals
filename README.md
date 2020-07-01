@@ -4,3 +4,7 @@
   <img width="480" height="154" src="french_project.gif">
 </p>
 <h2 align="center">Features & Functionality</h2>
+<p align="center">
+  <dl>
+    <dt>Conjugation Rules</dt>
+    <dd>In this section you will find the basic rules needed to conjugate french verbs in the past tense using the verbs avoir and être.</dd>
