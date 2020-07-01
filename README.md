@@ -17,3 +17,5 @@
   </dl>
 </p>
 <h2 align="center">Installation Requirements</h2>
+<h3 align="center">Contributors</h3>
+<p alin="center">The entirety of this program was designed and coded by Hiba Bhutta and Harman Khehara.</p>
