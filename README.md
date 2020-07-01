@@ -11,6 +11,6 @@
     <dt>Conjugation Rules</dt>
     <dd>In this section the user will find the basic rules needed to conjugate french verbs in the past tense using the verbs avoir and être.</dd>
     <dt>Mini Game</dt>
-    <dd>A matching game in which the user has to match the given verbs with the correct verb choice needed to conjugate the given verbs in the past tense. Every correct answer will earn points and incorrect answers will be displayed after the user has attempted all questions in the game.</dd>
+    <dd>A matching game in which the user has to match the given verbs with the correct verb choice needed to conjugate the given verbs in the past tense. Every correct answer will earn points and correct answers will be displayed after the user has attempted all questions in the game.</dd>
    </dl>
 </p>
