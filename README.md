@@ -11,7 +11,6 @@
 <h2 align="center">Features & Functionality</h2>
 
 <p align="center">
-  
   <dl>
     <dt>Experience Level</dt>
     <dd>This program includes the ability to set the user's experience level with past tense conjugation in French based on which the program will recommend which sections of the program the user should start off with. </dd>
@@ -26,6 +25,6 @@
 
 <h2 align="center">Installation Requirements (Windows 10)</h2>
 
-<h4 align="center">Contributors</h4>
+<h2 align="center">Contributors</h2>
 
 <p align="center">The entirety of this program was designed and coded by Hiba Bhutta and Harman Khehara.</p>
