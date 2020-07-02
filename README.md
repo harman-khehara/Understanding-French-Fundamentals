@@ -28,6 +28,7 @@
 </p>
 
 <h2 align="center">Installation Requirements (Windows 10)</h2>
+<p> Install Java JDK (Java Development Kit) which will include a JRE (Java Runtime Environment) from the <a href="https://www.oracle.com/java/technologies/javase-downloads.html">Oracle</a> website. </p>
 
 <h2 align="center">Contributors</h2>
 
