@@ -8,7 +8,7 @@
 
 <h2 align="center">Table of Contents</h2>
 
-<p align="center">Features & Functionality</p>
+<h2 align="center">Features & Functionality</h2>
 
 <p align="center">
   
