@@ -3,6 +3,12 @@
 <p align="center">
   <img width="480" height="154" src="french_project.gif">
 </p>
+<h2 align="center">Table of Contents</h2>
+<p align="center">
+  <ol>
+    <li>[Features & Functionality](#Features & Functionality)</li>
+  </ol>
+</p>
 <h2 align="center">Features & Functionality</h2>
 <p align="center">
   <dl>
