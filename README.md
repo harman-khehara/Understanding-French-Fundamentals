@@ -1,16 +1,17 @@
 <h1 align="center">Understanding French Fundamentals</h1>
+
 <p align="center">Understanding French Fundamentals is a simple French program created to assist students with understanding the basics of past tense conjugation in the French language. This program aims to help grade nine students learn the basics of communicating in French by learning to identify the key differences between the verbs avoir and être. </p>
+
 <p align="center">
   <img width="480" height="154" src="french_project.gif">
 </p>
+
 <h2 align="center">Table of Contents</h2>
+
+<p align="center">Features & Functionality</p>
+
 <p align="center">
-  <ol>
-    <li>[Features & Functionality](<h2 align="center">Features & Functionality</h2>)</li>
-  </ol>
-</p>
-<h2 align="center">Features & Functionality</h2>
-<p align="center">
+  
   <dl>
     <dt>Experience Level</dt>
     <dd>This program includes the ability to set the user's experience level with past tense conjugation in French based on which the program will recommend which sections of the program the user should start off with. </dd>
@@ -22,6 +23,9 @@
     <dd>This section contains a 'fill in the blanks' activity where the user has to complete the given sentences by typing in the correct form of the verb conjugated in the past tense. Correct answers will be displayed after the user has attempted all questions.</dd>
   </dl>
 </p>
+
 <h2 align="center">Installation Requirements (Windows 10)</h2>
+
 <h4 align="center">Contributors</h4>
+
 <p align="center">The entirety of this program was designed and coded by Hiba Bhutta and Harman Khehara.</p>
