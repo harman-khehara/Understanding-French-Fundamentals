@@ -10,9 +10,9 @@
 
 <p align="center">
   <ul>
-<a href="https://github.com/harman-khehara/Understanding-French-Fundamentals#features--functionality">Features & Functionality</a>
-<a href="https://github.com/harman-khehara/Understanding-French-Fundamentals#installation-requirements-windows-10">Installation Requirements</a>
-<a href="https://github.com/harman-khehara/Understanding-French-Fundamentals#contributors">Contributors</a>
+<li><a href="https://github.com/harman-khehara/Understanding-French-Fundamentals#features--functionality">Features & Functionality</a></li>
+<li><a href="https://github.com/harman-khehara/Understanding-French-Fundamentals#installation-requirements-windows-10">Installation Requirements</a></li>
+<li><a href="https://github.com/harman-khehara/Understanding-French-Fundamentals#contributors">Contributors</a></li>
     </ul>
 </p>
 
