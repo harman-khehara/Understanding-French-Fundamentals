@@ -8,6 +8,10 @@
 
 <h2 align="center">Table of Contents</h2>
 
+<p align="center">
+<a href="https://github.com/harman-khehara/Understanding-French-Fundamentals#features--functionality">Features & Functionality</a>
+</p>
+
 <h2 align="center">Features & Functionality</h2>
 
 <p align="center">
