@@ -6,7 +6,7 @@
 <h2 align="center">Table of Contents</h2>
 <p align="center">
   <ol>
-    <li>[Features & Functionality](#Features & Functionality)</li>
+    <li>[Features & Functionality](<h2 align="center">Features & Functionality</h2>)</li>
   </ol>
 </p>
 <h2 align="center">Features & Functionality</h2>
