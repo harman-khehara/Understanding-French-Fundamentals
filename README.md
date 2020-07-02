@@ -10,6 +10,8 @@
 
 <p align="center">
 <a href="https://github.com/harman-khehara/Understanding-French-Fundamentals#features--functionality">Features & Functionality</a>
+<a href="https://github.com/harman-khehara/Understanding-French-Fundamentals#installation-requirements-windows-10">Installation Requirements</a>
+<a href="https://github.com/harman-khehara/Understanding-French-Fundamentals#contributors">Contributors</a>
 </p>
 
 <h2 align="center">Features & Functionality</h2>
@@ -17,13 +19,13 @@
 <p align="center">
   <dl>
     <dt>Experience Level</dt>
-    <dd>This program includes the ability to set the user's experience level with past tense conjugation in French based on which the program will recommend which sections of the program the user should start off with. </dd>
+    <dd align="center">This program includes the ability to set the user's experience level with past tense conjugation in French based on which the program will recommend which sections of the program the user should start off with. </dd>
     <dt>Conjugation Rules</dt>
-    <dd>In this section the user will find the basic rules needed to conjugate french verbs in the past tense using the verbs avoir and être.</dd>
+    <dd align="center">In this section the user will find the basic rules needed to conjugate french verbs in the past tense using the verbs avoir and être.</dd>
     <dt>Mini Game</dt>
-    <dd>A matching game in which the user has to match the given verbs with the correct verb choice needed to conjugate the given verbs in the past tense. Every correct answer will earn points and correct answers will be displayed after the user has attempted all questions in the game.</dd>
+    <dd align="center">A matching game in which the user has to match the given verbs with the correct verb choice needed to conjugate the given verbs in the past tense. Every correct answer will earn points and correct answers will be displayed after the user has attempted all questions in the game.</dd>
     <dt>Fill in the Blanks</dt>
-    <dd>This section contains a 'fill in the blanks' activity where the user has to complete the given sentences by typing in the correct form of the verb conjugated in the past tense. Correct answers will be displayed after the user has attempted all questions.</dd>
+    <dd align="center">This section contains a 'fill in the blanks' activity where the user has to complete the given sentences by typing in the correct form of the verb conjugated in the past tense. Correct answers will be displayed after the user has attempted all questions.</dd>
   </dl>
 </p>
 
