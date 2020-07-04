@@ -8,11 +8,11 @@
 
 <h2 align="center">Table of Contents</h2>
 
-<p align="center"><a href="https://github.com/harman-khehara/Understanding-French-Fundamentals#features--functionality">Features & Functionality</a></p>
-<p align="center"><a href="https://github.com/harman-khehara/Understanding-French-Fundamentals#installation-requirements-windows-10">Installation Requirements</a></p>
-<p align="center"><a href="https://github.com/harman-khehara/Understanding-French-Fundamentals#contributors">Contributors</a></p>
+<p align="center"><a href="#features">Features & Functionality</a></p>
+<p align="center"><a href="#installation">Installation Requirements</a></p>
+<p align="center"><a href="#contributors">Contributors</a></p>
 
-<h2 align="center">Features & Functionality</h2>
+<h2 align="center" id="Features">Features & Functionality</h2>
 
 <p align="center">
   <dl>
@@ -27,7 +27,7 @@
   </dl>
 </p>
 
-<h2 align="center">Installation Requirements (Windows 10)</h2>
+<h2 align="center" id="installation">Installation Requirements (Windows 10)</h2>
 
 <ol>
 <li>Install Java JDK (Java Development Kit) which will include a JRE (Java Runtime Environment) from the <a href="https://www.oracle.com/java/technologies/javase-downloads.html">Oracle</a> website. </li>
@@ -35,6 +35,6 @@
 <li>Click on 'Environment Variables'</li>
 </ol>
   
-<h2 align="center">Contributors</h2>
+<h2 align="center" id="contributors">Contributors</h2>
 
 <p align="center">The entirety of this program was designed and coded by Hiba Bhutta and Harman Khehara.</p>
