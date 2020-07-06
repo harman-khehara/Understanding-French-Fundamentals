@@ -30,9 +30,9 @@
 <h2 align="center" id="installation">Installation Requirements (Windows 10)</h2>
 
 <ol>
-<li>Install Java JDK (Java Development Kit) which will include a JRE (Java Runtime Environment) from the <a href="https://www.oracle.com/java/technologies/javase-downloads.html">Oracle</a> website. </li>
-<li>Set up the environment variables by going to <b>Control Panel</b> -> <b>System and Security</b> -> <b>System</b> -> <b>Advanced system settings</b></li>
-<li>Click on 'Environment Variables'</li>
+  <li>Install Java JDK (Java Development Kit) which will include a JRE (Java Runtime Environment) from the <a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank">Oracle</a> website.</li>
+  <li>Set up the environment variables by going to <b>Control Panel</b> -> <b>System and Security</b> -> <b>System</b> -> <b>Advanced system settings</b></li>
+  <li>Click on 'Environment Variables'</li>
 </ol>
   
 <h2 align="center" id="contributors">Contributors</h2>
