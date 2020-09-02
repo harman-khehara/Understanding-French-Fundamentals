@@ -34,6 +34,9 @@
   <li>Set up the environment variables by going to <b>Control Panel</b> -> <b>System and Security</b> -> <b>System</b> -> <b>Advanced system settings</b>.</li>
   <li>Click on 'Environment Variables'.</li>
   <li>Under 'System variables', go to 'path' and add in the directory of bin folder located in the Java JDK folder as a new environment variable.</li>
+  <li>Now the environment variables have been set, to run the program open up Command Prompt</li>
+  <li>Using the `cd` command, change the directory to the location of the Java file you are trying to run.</li>
+  
 </ol>
   
 <h2 align="center" id="contributors">Contributors</h2>
