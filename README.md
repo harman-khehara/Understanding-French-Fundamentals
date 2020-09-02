@@ -34,8 +34,8 @@
   <li>Set up the environment variables by going to <b>Control Panel</b> -> <b>System and Security</b> -> <b>System</b> -> <b>Advanced system settings</b>.</li>
   <li>Click on 'Environment Variables'.</li>
   <li>Under 'System variables', go to 'path' and add in the directory of bin folder located in the Java JDK folder as a new environment variable.</li>
-  <li>Now the environment variables have been set, to run the program open up Command Prompt</li>
-  <li>Using the <code>cd</code> command, change the directory to the location of the Java file you are trying to run. In this case, you need to change the directory to the location of the <code>FrenchProgram.java</code> file</li>
+  <li>Now the environment variables have been set; to run the program open up Command Prompt.</li>
+  <li>Using the <code>cd</code> command, change the directory to the location of the Java file you are trying to run. In this case, you need to change the directory to the location of the <code>FrenchProgram.java</code> file.</li>
   <li>Use the <code>javac</code> command to complie the file before running it. <code>javac FrenchProgram.java</code></li>
   <li>Use the <code>java</code> command to run the program. <code>java FrenchProgram</code><lli>
 </ol>
