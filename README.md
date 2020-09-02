@@ -31,8 +31,8 @@
 
 <ol>
   <li>Install Java JDK (Java Development Kit) which will include a JRE (Java Runtime Environment) from the <a href="https://www.oracle.com/java/technologies/javase-downloads.html" target="_blank">Oracle</a> website.</li>
-  <li>Set up the environment variables by going to <b>Control Panel</b> -> <b>System and Security</b> -> <b>System</b> -> <b>Advanced system settings</b></li>
-  <li>Click on 'Environment Variables'</li>
+  <li>Set up the environment variables by going to <b>Control Panel</b> -> <b>System and Security</b> -> <b>System</b> -> <b>Advanced system settings</b>.</li>
+  <li>Click on 'Environment Variables'.</li>
   <li>Under 'System variables', go to 'path' and add in the directory of bin folder located in the Java JDK folder as a new environment variable.</li>
 </ol>
   
