@@ -10,6 +10,7 @@
 
 <p align="center"><a href="#features">Features & Functionality</a></p>
 <p align="center"><a href="#installation">Installation Requirements</a></p>
+<p align="center"><a href="#framework">Technical Framework</a></p>
 <p align="center"><a href="#contributors">Contributors</a></p>
 
 <h2 align="center" id="Features">Features & Functionality</h2>
@@ -39,6 +40,10 @@
   <li>Use the <code>javac</code> command to complie the file before running it. <code>javac FrenchProgram.java</code></li>
   <li>Use the <code>java</code> command to run the program. <code>java FrenchProgram</code><lli>
 </ol>
+    
+<h2 align="center" id="framework">Technical Framework</h2>
+
+<p align="center">This program was coded in Java and created using the Java Swing and Java AWT APIs</p>
   
 <h2 align="center" id="contributors">Contributors</h2>
 
