@@ -1,4 +1,4 @@
-<h1 align="center">Understanding French Fundamentals</h1>
+<h1 align="center">Understanding French Fundamentals :books:</h1>
 
 <p align="center">Understanding French Fundamentals is a simple French program created to assist students with understanding the basics of past tense conjugation in the French language. This program aims to help grade nine students learn the basics of communicating in French by learning to identify the key differences between the verbs avoir and être. </p>
 
